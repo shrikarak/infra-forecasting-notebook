@@ -1,0 +1,5 @@
+jupyter
+pandas
+prophet
+matplotlib
+numpy
